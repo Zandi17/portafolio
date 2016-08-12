@@ -1,0 +1,71 @@
+.imagen {
+	background: url(../img/header.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.fondo {
+	background: #F05F40;
+	padding: 6%;
+	margin-top:-3%; 
+}
+.fondo2 {
+	background: #222222;
+}
+.n-mp {
+	margin: 0%;
+	padding: 0%;
+}
+section  {
+	text-align: center;
+}
+ section .jumbotron .nombre {
+	text-align: center;
+	color: white;
+	font-size:3em;
+	padding-top: 4%;
+}
+section .jumbotron .raya {
+	background: #F05F40;
+	width: 4%;
+	font-size: 3%;
+}
+section .jumbotron .parrafo {
+	text-align: center;
+	color: white;
+	font-size: 1.2em;
+	opacity: 0.7;
+}
+section .btn  {
+	background: #F05F40;
+	border-color: #F05F40;
+	border-radius: 20%;
+	border-top: 2%;
+}
+.fondo h2, p {
+	color: white;
+	font-weight: bold;
+}
+.fondo .raya {
+	background: white;
+	width: 6%;
+	font-size: 3%;
+}
+section .servicios .raya {
+	color: #F05F40;
+	width: 4%;
+	font-size: 3%;
+}
+.glyphicon {
+	font-size: 3em;
+	color: #F05F40;
+}
+section .servicios p {
+	color: black;
+	opacity: 0.4;
+}
+footer {
+	text-align: center;
+}
+footer p {
+	color: black;
+}
